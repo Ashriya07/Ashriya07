@@ -1,52 +1,30 @@
 # Hi, I'm Ashriya 👋
 
-### B.Tech IT Student | Aspiring Frontend Developer | Web Developer | Building & Learning 🚀
+B.Tech IT Student | Aspiring Cloud Engineer | Frontend Developer | Building & Learning ☁️
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](linkedin.com/in/ashriya-balu)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ashriya1407@gmail.com)
+[LinkedIn] [Gmail]
 
-## 🛠️ Tech Arsenal
+## ☁️ Cloud & Frontend Arsenal
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=openjdk&logoColor=white)
+### Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+### Cloud & Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Networking-0078D4?style=flat&logo=cisco&logoColor=white)
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-### Deployment & Design
-![Netlify](https://img.shields.io/badge/Netlify-blue?style=flat-square&logo=netlify&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-blue?style=flat-square&logo=canva&logoColor=white)
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 ### Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-orange?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)
-
----
-
-### 🌱 Currently Learning
-
-- Node.js
-- Express.js
-- PostgreSQL
-- Data Structures & Algorithms
-
-### 💻 Projects
-
-- 🎟️ Event Management Website
-- 🌐 Frontend Web Projects
-
-### 🎯 Career Goal
-
-Aspiring to become a **Frontend / Web Developer** and build
-modern, user-friendly web applications.
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
