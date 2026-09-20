@@ -2,9 +2,7 @@
 
 B.Tech IT Student | Aspiring Cloud Engineer | Frontend Developer | Building & Learning ☁️
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/ashriya-balu)
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ashriya1407@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/ashriya-balu) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ashriya1407@gmail.com)
 
 ## ☁️ Cloud Engineering
 
@@ -17,7 +15,7 @@ B.Tech IT Student | Aspiring Cloud Engineer | Frontend Developer | Building & Le
 ### Networking
 ![Networking](https://img.shields.io/badge/Networking-0078D4?style=flat&logo=cisco&logoColor=white)
 
-## 🎨 Frontend
+## Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -43,5 +41,4 @@ B.Tech IT Student | Aspiring Cloud Engineer | Frontend Developer | Building & Le
 ## 🎯 Current Focus 
 ☁️ AWS  
 -Data Structure and Algorithms  
-
 Building projects and learning through hands-on practice.
